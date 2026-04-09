@@ -5,17 +5,17 @@
 
 <img align="right" alt="hacker" width="350" src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif">
 
-## 👨‍💻 About Me
+## About Me
 
-- 🔐 Passionate about Cybersecurity  
-- 🧠 Currently learning Web Application Security  
-- 🎯 Goal: Become VAPT / Pentester  
-- 💻 Practicing CTFs (HTB, TryHackMe)  
-- ⚡ Love finding vulnerabilities  
+-  Passionate about Cybersecurity  
+-  Currently learning Web Application Security  
+-  Goal: Become VAPT / Pentester  
+-  Practicing CTFs (HTB, TryHackMe)  
+-  Love finding vulnerabilities  
 
 ---
 
-## 🚀 Skills
+## Skills
 
 ```bash
 💻 Linux
